@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px
+}
+
+.film-list {
+  width: 20%;
+}
+
+.film-details {
+  width: 45%;
+}
+
